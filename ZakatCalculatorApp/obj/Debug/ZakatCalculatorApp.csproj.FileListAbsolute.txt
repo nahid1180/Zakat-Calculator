@@ -1,0 +1,9 @@
+E:\Documents\BASIS\OOP C#-- ASP.NET\Nahid\ZakatCalculatorApp\ZakatCalculatorApp\bin\Debug\ZakatCalculatorApp.exe.config
+E:\Documents\BASIS\OOP C#-- ASP.NET\Nahid\ZakatCalculatorApp\ZakatCalculatorApp\bin\Debug\ZakatCalculatorApp.exe
+E:\Documents\BASIS\OOP C#-- ASP.NET\Nahid\ZakatCalculatorApp\ZakatCalculatorApp\bin\Debug\ZakatCalculatorApp.pdb
+E:\Documents\BASIS\OOP C#-- ASP.NET\Nahid\ZakatCalculatorApp\ZakatCalculatorApp\obj\Debug\ZakatCalculatorApp.csprojResolveAssemblyReference.cache
+E:\Documents\BASIS\OOP C#-- ASP.NET\Nahid\ZakatCalculatorApp\ZakatCalculatorApp\obj\Debug\ZakatCalculatorApp.ZakatCaculatorApp.resources
+E:\Documents\BASIS\OOP C#-- ASP.NET\Nahid\ZakatCalculatorApp\ZakatCalculatorApp\obj\Debug\ZakatCalculatorApp.Properties.Resources.resources
+E:\Documents\BASIS\OOP C#-- ASP.NET\Nahid\ZakatCalculatorApp\ZakatCalculatorApp\obj\Debug\ZakatCalculatorApp.csproj.GenerateResource.Cache
+E:\Documents\BASIS\OOP C#-- ASP.NET\Nahid\ZakatCalculatorApp\ZakatCalculatorApp\obj\Debug\ZakatCalculatorApp.exe
+E:\Documents\BASIS\OOP C#-- ASP.NET\Nahid\ZakatCalculatorApp\ZakatCalculatorApp\obj\Debug\ZakatCalculatorApp.pdb
